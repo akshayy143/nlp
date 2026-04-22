@@ -24,6 +24,8 @@ RNN / LSTM: Sequential logic.
 Transformers: Attention-based logic.
 LLMs: GPT, BERT, Llama.
 
+https://arxiv.org/html/2407.18232v1
+
 
 
 
