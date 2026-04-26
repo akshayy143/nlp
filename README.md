@@ -21,7 +21,7 @@ Translation: Language to language.
 
 4. Modern Models
 RNN / LSTM: Sequential logic.
-Transformers: Attention-based logic.
+Transformers: Attention-based logic, self attention
 LLMs: GPT, BERT, Llama.
 
 https://arxiv.org/html/2407.18232v1
